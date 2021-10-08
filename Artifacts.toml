@@ -1,0 +1,143 @@
+[[libad9361_iio]]
+arch = "aarch64"
+git-tree-sha1 = "d0f2c7755bbe4f75c2a690a9d463cc0ef6f60f25"
+os = "macos"
+
+    [[libad9361_iio.download]]
+    sha256 = "0522b461b99373c49c289292c89a59fa581446780b55a9d4fa7814fd20f7efd1"
+    url = "https://github.com/JuliaBinaryWrappers/libad9361_iio_jll.jl/releases/download/libad9361_iio-v0.2.0+0/libad9361_iio.v0.2.0.aarch64-apple-darwin.tar.gz"
+[[libad9361_iio]]
+arch = "x86_64"
+git-tree-sha1 = "a6868e5c6fadca757c2eb810ea01999c7351cfa4"
+os = "macos"
+
+    [[libad9361_iio.download]]
+    sha256 = "491808343c32c72f424d53586d43f22c8a4d1cedd36c1e2e423e0c7db4152e72"
+    url = "https://github.com/JuliaBinaryWrappers/libad9361_iio_jll.jl/releases/download/libad9361_iio-v0.2.0+0/libad9361_iio.v0.2.0.x86_64-apple-darwin.tar.gz"
+[[libad9361_iio]]
+arch = "aarch64"
+git-tree-sha1 = "498a7dbc38ac1ba388e6b670c26abf441ed93793"
+libc = "glibc"
+os = "linux"
+
+    [[libad9361_iio.download]]
+    sha256 = "0521f15f4afc48103be47c3e4153c76743dd06b486c7829d2dadbdb270fa503f"
+    url = "https://github.com/JuliaBinaryWrappers/libad9361_iio_jll.jl/releases/download/libad9361_iio-v0.2.0+0/libad9361_iio.v0.2.0.aarch64-linux-gnu.tar.gz"
+[[libad9361_iio]]
+arch = "aarch64"
+git-tree-sha1 = "c0d9a381b7cf87e4db532641e9e5de222788edd5"
+libc = "musl"
+os = "linux"
+
+    [[libad9361_iio.download]]
+    sha256 = "6a38f2a2eaf4a6d157bbad42c272c4479cc12663b8915258bffb4b583133d085"
+    url = "https://github.com/JuliaBinaryWrappers/libad9361_iio_jll.jl/releases/download/libad9361_iio-v0.2.0+0/libad9361_iio.v0.2.0.aarch64-linux-musl.tar.gz"
+[[libad9361_iio]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0d1fe521149327a4a8b7b50104314b82a5fa23cd"
+libc = "glibc"
+os = "linux"
+
+    [[libad9361_iio.download]]
+    sha256 = "0fb0eade4e03c8b1d9db39f77942c2d50bd49e1d37a6938d224710234f281f27"
+    url = "https://github.com/JuliaBinaryWrappers/libad9361_iio_jll.jl/releases/download/libad9361_iio-v0.2.0+0/libad9361_iio.v0.2.0.armv6l-linux-gnueabihf.tar.gz"
+[[libad9361_iio]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "88fc356cb274edef73855a9bb18f1d66040d16d1"
+libc = "musl"
+os = "linux"
+
+    [[libad9361_iio.download]]
+    sha256 = "79167ba15e5f06b6302a0b1bae532236b381dcc9ac4c717df8b264f81b2b7786"
+    url = "https://github.com/JuliaBinaryWrappers/libad9361_iio_jll.jl/releases/download/libad9361_iio-v0.2.0+0/libad9361_iio.v0.2.0.armv6l-linux-musleabihf.tar.gz"
+[[libad9361_iio]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "094e720dc8b416b1e8980077ac8d849b7f3b19db"
+libc = "glibc"
+os = "linux"
+
+    [[libad9361_iio.download]]
+    sha256 = "1bcce37b7eaed0f22a9435cd3a8a93689f3a898e0f1bb364fd53c5def70d3ff7"
+    url = "https://github.com/JuliaBinaryWrappers/libad9361_iio_jll.jl/releases/download/libad9361_iio-v0.2.0+0/libad9361_iio.v0.2.0.armv7l-linux-gnueabihf.tar.gz"
+[[libad9361_iio]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "fd6dade2a517a17d71e2f56a618f72fe588f26b5"
+libc = "musl"
+os = "linux"
+
+    [[libad9361_iio.download]]
+    sha256 = "fbc8183428d1401b61e0155b2bf255b212cd8b85e74ee08cf59212bc3b7f885e"
+    url = "https://github.com/JuliaBinaryWrappers/libad9361_iio_jll.jl/releases/download/libad9361_iio-v0.2.0+0/libad9361_iio.v0.2.0.armv7l-linux-musleabihf.tar.gz"
+[[libad9361_iio]]
+arch = "i686"
+git-tree-sha1 = "dcec40cdbfc048db4e53b19029abf19e0e51dd0b"
+libc = "glibc"
+os = "linux"
+
+    [[libad9361_iio.download]]
+    sha256 = "8106158910fd747e2a536a5d3e1e2c64650a4954099a978c91feaef68ac0097c"
+    url = "https://github.com/JuliaBinaryWrappers/libad9361_iio_jll.jl/releases/download/libad9361_iio-v0.2.0+0/libad9361_iio.v0.2.0.i686-linux-gnu.tar.gz"
+[[libad9361_iio]]
+arch = "i686"
+git-tree-sha1 = "44bf52c510d34ffd0cc6312bbc4c43d41d5c3a21"
+libc = "musl"
+os = "linux"
+
+    [[libad9361_iio.download]]
+    sha256 = "d245d8060e1048e63d93b4fd26753105e8e61048d616507f9228f12f393eaf74"
+    url = "https://github.com/JuliaBinaryWrappers/libad9361_iio_jll.jl/releases/download/libad9361_iio-v0.2.0+0/libad9361_iio.v0.2.0.i686-linux-musl.tar.gz"
+[[libad9361_iio]]
+arch = "i686"
+git-tree-sha1 = "fd55f6a6341b42e4da42fa73df7afd16d572052c"
+os = "windows"
+
+    [[libad9361_iio.download]]
+    sha256 = "e8fc71006a2ec8c7cb62885136aaa3bab53cbf107ee0fff339518e0150431442"
+    url = "https://github.com/JuliaBinaryWrappers/libad9361_iio_jll.jl/releases/download/libad9361_iio-v0.2.0+0/libad9361_iio.v0.2.0.i686-w64-mingw32.tar.gz"
+[[libad9361_iio]]
+arch = "powerpc64le"
+git-tree-sha1 = "aba51a693381dd2091dcb7b40e564aa26636a086"
+libc = "glibc"
+os = "linux"
+
+    [[libad9361_iio.download]]
+    sha256 = "f328c9019b6372acc9f97cab0252de7ea6323df72d7020fad2e17747941ba462"
+    url = "https://github.com/JuliaBinaryWrappers/libad9361_iio_jll.jl/releases/download/libad9361_iio-v0.2.0+0/libad9361_iio.v0.2.0.powerpc64le-linux-gnu.tar.gz"
+[[libad9361_iio]]
+arch = "x86_64"
+git-tree-sha1 = "7843fe56d78eee1845154bbc807da075402d8023"
+libc = "glibc"
+os = "linux"
+
+    [[libad9361_iio.download]]
+    sha256 = "9ddf27c7450452d6989ea1466226b40560ea81423c4972d4db8ff9d90d7c43c8"
+    url = "https://github.com/JuliaBinaryWrappers/libad9361_iio_jll.jl/releases/download/libad9361_iio-v0.2.0+0/libad9361_iio.v0.2.0.x86_64-linux-gnu.tar.gz"
+[[libad9361_iio]]
+arch = "x86_64"
+git-tree-sha1 = "7b3f2f2397bfe812543f216c9edd661667b894f5"
+libc = "musl"
+os = "linux"
+
+    [[libad9361_iio.download]]
+    sha256 = "d43e0c805de95eeb5e17f1551d3f9be55c81063e5a0af646f47a453598fa0cc9"
+    url = "https://github.com/JuliaBinaryWrappers/libad9361_iio_jll.jl/releases/download/libad9361_iio-v0.2.0+0/libad9361_iio.v0.2.0.x86_64-linux-musl.tar.gz"
+[[libad9361_iio]]
+arch = "x86_64"
+git-tree-sha1 = "bbc628070ccd4434a75598d30fd7d75112340481"
+os = "freebsd"
+
+    [[libad9361_iio.download]]
+    sha256 = "a8e509ed712fc49849b05215206ad85b5f72a0714da043c03d0f695670c157f2"
+    url = "https://github.com/JuliaBinaryWrappers/libad9361_iio_jll.jl/releases/download/libad9361_iio-v0.2.0+0/libad9361_iio.v0.2.0.x86_64-unknown-freebsd.tar.gz"
+[[libad9361_iio]]
+arch = "x86_64"
+git-tree-sha1 = "c7ad4997e957a604a89a7ff0f19ca4b7d21156c2"
+os = "windows"
+
+    [[libad9361_iio.download]]
+    sha256 = "37c6c8fb5a0d8e44dd3ab915555b6d075ec935ae35a8cbcbb11aa0e549be32a7"
+    url = "https://github.com/JuliaBinaryWrappers/libad9361_iio_jll.jl/releases/download/libad9361_iio-v0.2.0+0/libad9361_iio.v0.2.0.x86_64-w64-mingw32.tar.gz"
